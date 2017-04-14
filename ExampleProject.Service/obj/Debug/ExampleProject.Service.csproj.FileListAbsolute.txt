@@ -1,0 +1,17 @@
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Service\bin\Debug\ExampleProject.Service.dll.config
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Service\bin\Debug\ExampleProject.Service.dll
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Service\bin\Debug\ExampleProject.Service.pdb
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Service\bin\Debug\AutoMapper.dll
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Service\bin\Debug\Dapper.dll
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Service\bin\Debug\EntityFramework.dll
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Service\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Service\bin\Debug\ExampleProject.Command.dll
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Service\bin\Debug\MediatR.dll
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Service\bin\Debug\ExampleProject.Command.pdb
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Service\bin\Debug\AutoMapper.xml
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Service\bin\Debug\Dapper.xml
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Service\bin\Debug\EntityFramework.xml
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Service\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Service\obj\Debug\ExampleProject.Service.csprojResolveAssemblyReference.cache
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Service\obj\Debug\ExampleProject.Service.dll
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Service\obj\Debug\ExampleProject.Service.pdb

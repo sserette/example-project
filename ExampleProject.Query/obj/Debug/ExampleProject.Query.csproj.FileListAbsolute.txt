@@ -1,0 +1,10 @@
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Query\bin\Debug\ExampleProject.Query.dll
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Query\bin\Debug\ExampleProject.Query.pdb
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Query\bin\Debug\AutoMapper.dll
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Query\bin\Debug\Dapper.dll
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Query\bin\Debug\MediatR.dll
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Query\bin\Debug\AutoMapper.xml
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Query\bin\Debug\Dapper.xml
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Query\obj\Debug\ExampleProject.Query.csprojResolveAssemblyReference.cache
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Query\obj\Debug\ExampleProject.Query.dll
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Query\obj\Debug\ExampleProject.Query.pdb

@@ -1,0 +1,7 @@
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Shared\bin\Debug\ExampleProject.Shared.dll
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Shared\bin\Debug\ExampleProject.Shared.pdb
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Shared\bin\Debug\AutoMapper.dll
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Shared\bin\Debug\AutoMapper.xml
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Shared\obj\Debug\ExampleProject.Shared.csprojResolveAssemblyReference.cache
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Shared\obj\Debug\ExampleProject.Shared.dll
+c:\users\sserette\documents\visual studio 2015\Projects\ExampleProject\ExampleProject.Shared\obj\Debug\ExampleProject.Shared.pdb
